@@ -1,0 +1,37 @@
+﻿@model List<Event>
+
+
+<div>
+    <h1>All Events</h1>
+    <div class="table table-bordered table-striped">
+        <table>
+            <thead class="table-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Event Name</th>
+                    <th>Description</th>
+                    <th>Date</th>
+                    <th>Location</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                    @foreach (Event ev in Model)
+                    {
+                        <tr>
+                            <td>@ev.id</td>
+                            <td>@ev.name</td>
+                            <td>@ev.description</td>
+                            <td>@ev.date</td>
+                            <td>@ev.address</td>
+                        </tr>
+                    }
+                
+               
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+
