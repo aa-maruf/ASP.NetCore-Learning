@@ -1,0 +1,56 @@
+﻿@model List<User>
+
+
+<div>
+    <h1>Users</h1>
+    <div class = "table table-bordered table-striped"> 
+        <table>
+            <thead class="table-dark"> 
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Contract Number</th>
+                    <th>Email</th>
+                    <th>User Type</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                
+                    @foreach (User u in Model)
+                {
+
+                    string type;
+                   
+                    if (u.UserType == 1)
+                    {
+                        type = "Admin User";
+                    }
+                    else if (u.UserType == 2)
+                    {
+                        type = "Standard User";
+                    } else if (u.UserType == 3)
+                    {
+                        type = "External User";
+                    }
+                    else
+                    {
+                        type = "Guest User";
+                    }
+                   
+                        
+
+                    <tr>
+                        <td>@u.Id</td>
+                        <td>@(u.FirstName + " " + u.LastName)</td>
+                        <td>@u.ContactNumber</td>
+                        <td>@u.Email</td>
+                        <td>@type</td>
+                    </tr>
+                }
+            </tbody>
+
+
+        </table>
+    </div>
+</div>

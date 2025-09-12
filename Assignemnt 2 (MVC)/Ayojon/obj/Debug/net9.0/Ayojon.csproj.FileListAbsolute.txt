@@ -1,0 +1,567 @@
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\appsettings.Development.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\appsettings.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.staticwebassets.runtime.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.staticwebassets.endpoints.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.exe
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.deps.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.runtimeconfig.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.pdb
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.AssemblyInfoInputs.cache
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.AssemblyInfo.cs
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.csproj.CoreCompileInputs.cache
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.MvcApplicationPartsAssemblyInfo.cache
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.RazorAssemblyInfo.cache
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.RazorAssemblyInfo.cs
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\scopedcss\bundle\Ayojon.styles.css
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\scopedcss\projectbundle\Ayojon.bundle.scp.css
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\amwbp9bv7w-b9sayid5wm.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\28slgx0b2q-61n19gt1b8.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\xrfbseigv9-xtxxf3hu2r.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\5okgf89ezp-bqjiyaj88i.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\niowosu23b-c2jlpeoesf.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\31d2n7m4el-erw9l3u2r3.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\p8q7yjuj10-aexeepp0ev.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\8nwgpauuwr-d7shbmvgxk.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\x7nqron2ku-ausgxo2sd3.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\r2rh8rfoby-k8d9w2qqmf.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\ye8ydj3lro-cosvhxvwiu.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\hs1wzdlaxz-ub07r2b239.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\gmy2r2givt-fvhpjtyr6v.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\9glf15p99s-b7pk76d08c.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\jl3l4tgsnf-fsbi9cje9m.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\2mbpqp0jiy-rzd6atqjts.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\95rhdw227k-ee0r1s7dh0.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\g9t36j6zo3-dxx9fxp4il.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\bcrpf7n08l-jd9uben2k1.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\jfcfjn94cw-khv3u5hwcm.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\3orgj8k44u-r4e9w2rdcm.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\3101u0gly5-lcd1t2u6c8.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\j02x8z4q6y-c2oey78nd0.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\5n1u5l2lj0-tdbxkamptv.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\1bdlr1yxgk-j5mq2jizvt.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\3y3teq8wfn-06098lyss8.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\6m6xfth9xs-nvvlpmu67g.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\kee1u8aye7-s35ty4nyc5.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\162rt9bz3l-pj5nd1wqec.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\o488u620a8-46ein0sx1k.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\fqewp6svut-v0zj4ognzu.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\9ugfx3185u-37tfw0ft22.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\wmueeuvn9w-hrwsygsryq.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\uvgh6ngnqp-pk9g2wxc8p.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\au1kkxc1o6-ft3s53vfgj.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\0dw2ps84ko-6cfz1n2cew.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\pqw7nljk75-6pdc2jztkx.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\72q5zvxid6-493y06b0oq.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\zv2uc9k9c8-iovd86k7lj.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\dmbzk0asqx-vr1egmr9el.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\jjcf8fq7f0-kbrnm935zg.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\xliark0oj3-jj8uyg4cgr.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\wzbaswddkq-y7v9cxd14o.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\dj6wzvkc8x-notf2xhcfb.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\8cgczbw0d8-h1s4sie4z3.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\eng50kkvj0-63fj8s7r0e.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\gpqga9m3sj-0j3bgjxly4.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\szg2508fk6-47otxtyo56.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\ncvyb7z5he-4v8eqarkd7.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\zjgvi4l5y2-356vix0kms.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\zhqr8nzvln-83jwlth58m.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\swojg5xv19-mrlpezrjn3.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\q796yvzy1t-lzl9nlhx6b.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\3jugmj898h-ag7o75518u.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\5bt47xf7ga-x0q3zqp4vz.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\eibajipdto-0i3buxo5is.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\r7xbbfnq5d-o1o13a6vjx.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\eo44dr0lyf-ttgo8qnofa.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\1xnoxnqxlz-2z0ns9nrw6.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\37u2zvm2qb-muycvpuwrr.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\17tws2oz09-87fc7y1x7t.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\louprawhvx-mlv21k5csn.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\kfgpo3906m-ez7m11ezyl.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\compressed\69btvv9cy0-ez7m11ezyl.gz
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\staticwebassets.build.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\staticwebassets.development.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\refint\Ayojon.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.pdb
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.genruntimeconfig.cache
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\ref\Ayojon.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Humanizer.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Common.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\System.CodeDom.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.csproj.AssemblyReference.cache
+C:\Desktop\Projects\OstadDotNet8\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.csproj.Up2Date
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\appsettings.Development.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\appsettings.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.staticwebassets.runtime.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.staticwebassets.endpoints.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.exe
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.deps.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.runtimeconfig.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Ayojon.pdb
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Humanizer.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Common.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\System.CodeDom.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.csproj.AssemblyReference.cache
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.AssemblyInfoInputs.cache
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.AssemblyInfo.cs
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.csproj.CoreCompileInputs.cache
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.MvcApplicationPartsAssemblyInfo.cache
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.RazorAssemblyInfo.cache
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.RazorAssemblyInfo.cs
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\scopedcss\bundle\Ayojon.styles.css
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\scopedcss\projectbundle\Ayojon.bundle.scp.css
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\amwbp9bv7w-b9sayid5wm.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\28slgx0b2q-61n19gt1b8.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\xrfbseigv9-xtxxf3hu2r.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\5okgf89ezp-bqjiyaj88i.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\niowosu23b-c2jlpeoesf.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\31d2n7m4el-erw9l3u2r3.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\p8q7yjuj10-aexeepp0ev.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\8nwgpauuwr-d7shbmvgxk.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\x7nqron2ku-ausgxo2sd3.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\r2rh8rfoby-k8d9w2qqmf.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\ye8ydj3lro-cosvhxvwiu.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\hs1wzdlaxz-ub07r2b239.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\gmy2r2givt-fvhpjtyr6v.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\9glf15p99s-b7pk76d08c.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\jl3l4tgsnf-fsbi9cje9m.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\2mbpqp0jiy-rzd6atqjts.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\95rhdw227k-ee0r1s7dh0.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\g9t36j6zo3-dxx9fxp4il.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\bcrpf7n08l-jd9uben2k1.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\jfcfjn94cw-khv3u5hwcm.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\3orgj8k44u-r4e9w2rdcm.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\3101u0gly5-lcd1t2u6c8.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\j02x8z4q6y-c2oey78nd0.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\5n1u5l2lj0-tdbxkamptv.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\1bdlr1yxgk-j5mq2jizvt.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\3y3teq8wfn-06098lyss8.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\6m6xfth9xs-nvvlpmu67g.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\kee1u8aye7-s35ty4nyc5.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\162rt9bz3l-pj5nd1wqec.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\o488u620a8-46ein0sx1k.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\fqewp6svut-v0zj4ognzu.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\9ugfx3185u-37tfw0ft22.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\wmueeuvn9w-hrwsygsryq.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\uvgh6ngnqp-pk9g2wxc8p.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\au1kkxc1o6-ft3s53vfgj.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\0dw2ps84ko-6cfz1n2cew.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\pqw7nljk75-6pdc2jztkx.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\72q5zvxid6-493y06b0oq.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\zv2uc9k9c8-iovd86k7lj.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\dmbzk0asqx-vr1egmr9el.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\jjcf8fq7f0-kbrnm935zg.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\xliark0oj3-jj8uyg4cgr.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\wzbaswddkq-y7v9cxd14o.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\dj6wzvkc8x-notf2xhcfb.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\8cgczbw0d8-h1s4sie4z3.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\eng50kkvj0-63fj8s7r0e.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\gpqga9m3sj-0j3bgjxly4.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\szg2508fk6-47otxtyo56.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\ncvyb7z5he-4v8eqarkd7.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\zjgvi4l5y2-356vix0kms.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\zhqr8nzvln-83jwlth58m.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\swojg5xv19-mrlpezrjn3.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\q796yvzy1t-lzl9nlhx6b.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\3jugmj898h-ag7o75518u.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\5bt47xf7ga-x0q3zqp4vz.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\eibajipdto-0i3buxo5is.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\r7xbbfnq5d-o1o13a6vjx.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\eo44dr0lyf-ttgo8qnofa.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\1xnoxnqxlz-2z0ns9nrw6.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\37u2zvm2qb-muycvpuwrr.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\17tws2oz09-87fc7y1x7t.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\louprawhvx-mlv21k5csn.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\kfgpo3906m-ez7m11ezyl.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\compressed\69btvv9cy0-ez7m11ezyl.gz
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\staticwebassets.build.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\staticwebassets.development.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.csproj.Up2Date
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\refint\Ayojon.dll
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.pdb
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\Ayojon.genruntimeconfig.cache
+C:\Learning\Courses\Ostad DOT Net 8\Assignment 2\Ayojon\Ayojon\obj\Debug\net9.0\ref\Ayojon.dll
