@@ -1,0 +1,98 @@
+﻿# LibraryManagement System
+
+A web-based Library Management System built with ASP.NET Core MVC targeting .NET 9. This practice project demonstrates data binding concepts and CRUD operations for managing a collection of books.
+
+## Project Overview
+
+This application provides a simple interface for managing library books with basic operations including viewing, editing, and updating book information. The project showcases fundamental ASP.NET Core MVC concepts including model binding, view rendering, and controller actions.
+
+## Features
+
+- **Book Listing**: Display all books in a tabular format with details including title, author, genre, and quantity
+- **Book Editing**: Update existing book information through a dedicated edit form
+- **Book Deletion**: Remove books from the library collection with a delete button
+- **Data Binding**: Demonstrates various ASP.NET Core data binding techniques
+- **MVC Architecture**: Clean separation of concerns using the Model-View-Controller pattern
+
+## Technology Stack
+
+- **Framework**: ASP.NET Core MVC
+- **Target Framework**: .NET 9
+- **Language**: C#
+- **View Engine**: Razor Pages
+- **Data Storage**: In-memory collection (static list)
+
+## Project Structure
+
+```
+LibraryManagement/
+├── Controllers/
+│   └── BookController.cs      # Handles book-related operations (CRUD)
+├── Models/
+│   └── BookViewModel.cs       # Book data model
+├── Views/
+│   └── Book/
+│       ├── Books.cshtml       # Book listing page
+│       └── Edit.cshtml        # Book editing form
+└── Program.cs                 # Application entry point
+```
+
+## Getting Started
+
+### Prerequisites
+
+- .NET 9 SDK
+- Visual Studio 2022 or compatible IDE
+
+### Installation
+
+1. Clone or download the project
+2. Open the solution in Visual Studio 2022
+3. Restore NuGet packages (if any)
+4. Build the solution
+
+
+## Usage
+
+### Viewing Books
+- Access the main page to view all available books in a table format
+- Each book displays: Title, Author, Genre, and Quantity
+
+### Editing Books
+- Click the "Edit" link next to any book in the listing
+- Update the book information in the form
+- Click "Submit" to save changes and return to the book listing
+
+### Deleting Books
+- Click the "Delete" button next to any book in the listing
+- The book will be removed from the library collection
+- The page will refresh to show the updated book list
+
+## Application Flow
+
+1. **Initialization**: The BookController initializes with sample data (2 books)
+2. **Book Listing**: Default route displays all books using the Books action
+3. **Edit Process**: 
+   - Edit link passes book ID to the Edit action
+   - Edit view displays current book data in a form
+   - Update action processes form submission and redirects back to listing
+4. **Delete Process**: 
+   - Delete button triggers a removal request for the specific book
+   - Book is removed from the collection and the view is updated
+
+## Data Model
+
+The `BookViewModel` class contains the following properties:
+- `Id`: Unique identifier for each book
+- `Title`: Book title
+- `Author`: Book author name
+- `Genre`: Book genre/category
+- `Quantity`: Available quantity in library
+
+## Course Context
+
+This practice project is part of a Data Binding course for ASP.NET Core, demonstrating practical implementation of:
+- Model binding from forms
+- View data binding with Razor syntax
+- Controller action parameter binding
+- Route parameter binding

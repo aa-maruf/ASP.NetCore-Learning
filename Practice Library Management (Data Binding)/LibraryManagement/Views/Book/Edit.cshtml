@@ -1,0 +1,33 @@
+﻿@model BookViewModel
+
+
+<div class="text-center">
+    <h1>Edit Books</h1>
+    <form asp-action ="Update">
+        <input type ="hidden" asp-for = "Id" />
+        <div>
+            <label>Title</label>
+            <input asp-for="Title" />
+        </div>
+       
+        <div>
+            <label>Author</label>
+            <input asp-for="Author" />
+        </div>
+
+        <div>
+            <label>Genre</label>
+            <input asp-for="Genre" />
+        </div>
+      
+        <div>
+            <label>Quantity</label>
+            <input asp-for="Quantity" />
+        </div>
+
+        <button type ="submit">submit</button>
+    </form>
+    
+</div>
+
+

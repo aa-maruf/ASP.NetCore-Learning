@@ -1,0 +1,39 @@
+﻿@model List<BookViewModel>
+
+
+<div>
+    <h1>List of Books</h1>
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Genre</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                @foreach (var book in Model) 
+                {
+                    <tr>
+                        <td>@book.Title</td>
+                        <td>@book.Author</td>
+                        <td>@book.Genre</td>
+                        <td>@book.Quantity</td>
+                        <td>
+                            <a asp-controller="Book" asp-action="Edit" asp-route-bookId =@book.Id>Edit</a>
+                        </td>
+                        <td>
+                            <a asp-controller="Book" asp-action="Delete" asp-route-bookId=@book.Id>Delete</a>
+                        </td>
+                    </tr>
+                }
+                
+            </tbody>
+        </table>
+
+
+    </div>
+</div>
