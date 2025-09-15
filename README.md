@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 ASP.Net Core Learning Repository
 
 Welcome to my ASP.Net Core Learning repo! This is where I document and share everything I’ve learned from the **“Full Stack Web Development with ASP.Net Core”** live course hosted by [Ostad Platform](https://ostad.app). Each module, assignment, and hands-on practice is organized here to help reinforce concepts and track progress.
@@ -43,6 +42,6 @@ Special thanks to:
 - **YouTube creators** whose tutorials are linked in the playlist
 
 ---
-```
 
 ---
+
